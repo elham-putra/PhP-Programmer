@@ -1,0 +1,14 @@
+Ini adalah alur daftar belajar programing saya :
+ 1.php dasar
+ 2.php oop
+ 3.php mvc
+ 4.php framework
+ 
+Selanjutnya adalah saya akan belajar tentang web design menggunkan :
+ 1.html and css
+ 2.boostrap5
+ 3.javascript
+ 
+JIka semua sudah saya pelajari maka tugas saya adalah membuat portofolio untuk melamar kerja di starup/perusahaan di bidang IT/WEB development.
+
+#Semoga Sukses :)
